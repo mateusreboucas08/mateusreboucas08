@@ -1,7 +1,14 @@
 ### Hi there 👋
 
 # 💫 About Me:
-OIá, bem-vindos ao meu GitHub!<br>Aqui vocês irão ver um pouco das coisas que estou <br>fazendo e trabalhando. Há também, no meio dessa <br>minha bagunça inteira, ideias que surgem na minha<br>cabeça em alguns surtos de alguma madrugada por<br>aí. <br>Espero que tirem proveito de algo aqui e que eu possa,<br>sempre que eu puder, entregar a todos vocês algo que<br>esteja sutilmente feito na minha cachola.
+🎓 Engenheiro de Petróleo em formação na UFERSA - Mossoró
+🧠 Apaixonado por Inteligência Artificial e Desenvolvimento de Software
+💻 Técnico em Informática pelo IFCE - Aracati
+🛠️ Experiência com Python, JavaScript, PHP, HTML/CSS, MySQL, Figma e Arduino
+📊 Projetos com foco em IA, dashboards, análise de dados e automações web
+🚀 Atuei como Scrum Master e desenvolvedor fullstack em projetos acadêmicos
+🔬 Pesquisa atual: bioadsorventes para remoção de óleos em água
+🌌 Em busca de oportunidades em IA e tecnologia aplicada à energia
 
 
 ## 🌐 Socials:
@@ -14,8 +21,6 @@ OIá, bem-vindos ao meu GitHub!<br>Aqui vocês irão ver um pouco das coisas que
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mateusreboucas08&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusreboucas08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=mateusmp4__)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
