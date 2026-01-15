@@ -42,18 +42,10 @@ Sou um entusiasta da **intersecção entre Ciência de Materiais e Tecnologia**.
 
 | Projeto | Especialidade | Status |
 | :--- | :--- | :--- |
-| **🤖 IA Médica** | Inteligência Artificial / Python | `Concluído` |
+| **🤖 IA Médica** | Inteligência Artificial / Python | `Em Desenvolvimento` |
 | **🌿 Bioadsorventes** | Sustentabilidade / Pesquisa | `Em Desenvolvimento` |
 | **📊 Dashboard Evasão** | Data Analytics / BI | `Concluído` |
 | **🔌 Lab Robótica** | Automação / Arduino | `Ativo` |
-
----
-
-## 📊 Performance & Insights
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mateusreboucas08&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusreboucas08&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="180" /> </div>
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusreboucas08&theme=radical&hide_border=true" alt="GitHub Streak" /> </p>
 
 ---
 
