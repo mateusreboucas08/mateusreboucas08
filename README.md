@@ -1,83 +1,70 @@
-### 👋 Hi there! Welcome to my profile.
+# 👋 Olá, eu sou o Mateus Rebouças!
 
-# 💫 Sobre Mim
+### 🎓 Futuro Engenheiro de Petróleo | 💻 Técnico em Informática | 🤖 Entusiasta de IA
 
-🎓 Estudante de Engenharia de Petróleo na **UFERSA - Mossoró**<br>
-💻 Técnico em Informática pelo **IFCE - Aracati**<br>
-🧠 Apaixonado por **Inteligência Artificial**, automações e desenvolvimento de software<br>
-🚀 Experiência como **Scrum Master** e desenvolvedor fullstack em projetos acadêmicos<br>
-📊 Atuação com IA, dashboards, análise de dados e automações web<br>
-🔬 Pesquisador na área de **bioadsorventes para remoção de óleos em água**<br>
-🛠️ Skills com **Python, JavaScript, PHP, HTML/CSS, MySQL, Figma, Arduino**<br>
-🌌 Buscando oportunidades em **IA, tecnologia e energia**<br>
+Sou um desenvolvedor e pesquisador apaixonado por resolver problemas complexos através da tecnologia. Minha trajetória une o rigor acadêmico da **Engenharia de Petróleo (UFERSA)** com a versatilidade do **Desenvolvimento de Software (IFCE)**.
 
 ---
 
-## 🌐 Conecte-se Comigo
+## ⚡ Sobre Mim
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mateus.mp4__)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mateusreboucas08)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mateusmp4__)
-
----
-
-## 🚀 Projetos em Destaque
-
-✨ [**IA Médica com Python**](https://github.com/mateusreboucas08)  
-> Participação em projeto acadêmico de atendimento médico com IA no IFCE.  
-
-🐶 [**PetCare Web**](https://github.com/mateusreboucas08)  
-> Plataforma de agendamento e loja para petshops, desenvolvida com PHP + MySQL.  
-
-📊 [**Dashboard de Evasão Escolar**](https://github.com/mateusreboucas08)  
-> Análise de dados com visualização em tempo real para educação básica.  
-
-🤖 [**Robótica com Arduino**](https://github.com/mateusreboucas08)  
-> Projetos físicos com corte a laser, impressão 3D, sensores e programação embarcada.
-
-🌿 [**Pesquisa em Bioadsorventes (UFERSA)**](https://github.com/mateusreboucas08)  
-> Desenvolvimento de materiais para remoção de óleo da água.
+- 🔬 **Pesquisa:** Desenvolvo bioadsorventes para sustentabilidade ambiental na indústria de óleo e gás.
+- 🤖 **IA & Dados:** Foco em automações inteligentes, análise de dados e dashboards preditivos.
+- 🚀 **Gestão:** Experiência como Scrum Master, liderando times em projetos de tecnologia.
+- 🛠️ **Maker:** Entusiasta de robótica, Arduino e soluções de hardware/software integradas.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-**Linguagens & Web**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+### 🚀 Desenvolvimento & IA
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Banco de Dados e Sistemas**  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-
-**Design & Criatividade**  
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)  
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)  
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=7D929E)
+### ⚙️ Hardware & Ferramentas
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Projetos em Destaque
 
-| 📈 Estatísticas | 🔥 Streak |
-|----------------|-----------|
-| ![Mateus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusreboucas08&theme=dark&hide_border=false&show_icons=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateusreboucas08&theme=dark&hide_border=false) |
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| **🤖 IA Médica** | Sistema de triagem inteligente desenvolvido no IFCE. | `Python` `AI` |
+| **🌿 Bioadsorventes** | Pesquisa acadêmica focada na remoção de óleos em água. | `Research` `O&G` |
+| **📊 Dashboard Evasão** | Visualização de dados em tempo real para o setor educacional. | `Data Analytics` |
+| **🐶 PetCare Web** | E-commerce e sistema de agendamento completo. | `PHP` `MySQL` |
+| **🔌 Robótica** | Automações com sensores, corte a laser e impressão 3D. | `Arduino` `C++` |
 
-| 🚀 Linguagens Mais Usadas |
-|---------------------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusreboucas08&theme=dark&hide_border=false&layout=compact) |
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusreboucas08&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusreboucas08&theme=radical&layout=compact&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusreboucas08&theme=radical&hide_border=true" />
+</div>
 
 ---
 
-### ✍️ Dev Quote do Dia
+## 🌐 Vamos Conversar?
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateusreboucas08)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mateus.mp4__)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mateusmp4__)
 
 ---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
